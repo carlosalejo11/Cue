@@ -1,0 +1,48 @@
+brand,model,category,sensor_size,resolution_k,dynamic_range,iso_native,mount,release_year,price_usd_approx,weight_kg,codec,price_type
+ARRI,Alexa 35,Digital Cinema,Super 35,4.6,17.0,800,LPL,2022,54000,3.5,ARRIRAW / ProRes,purchase 
+ARRI,Alexa Mini LF,Digital Cinema,Large Format,4.5,14.0,800,LPL,2019,63000,2.6,ARRIRAW / ProRes,purchase 
+ARRI,Alexa Mini ,Digital Cinema,Super 35,4.5,14.0,800,PL,2015,35000,2.3,ARRIRAW / ProRes,purchase 
+ARRI,Amira,Digital Cinema,Super 35,4.5,14.0,800,PL,2014,28000,2.8,ProRes,purchase 
+RED,V-Raptor 8K VV,Digital Cinema,Large Format,8.0,17.0,800,DSMC3,2022,24500,2.1,REDCODE RAW,purchase 
+RED,Komodo 6K,Digital Cinema,Super 35,6.0,16.0,800,RF,2021,6000,1.0,REDCODE RAW,purchase 
+RED,Monstro 8K VV,Digital Cinema,Large Format,8.0,17.0,800,DSMC2,2018,49500,2.5,REDCODE RAW,purchase 
+RED,Raptor 8K VV,Digital Cinema,Large Format,8.0,17.0,800,DSMC3,2022,14500,1.8,REDCODE RAW,purchase 
+RED,Gemini 5K S35,Digital Cinema,Super 35,5.0,16.0,800/3200,DSMC2,2018,19500,2.4,REDCODE RAW,purchase 
+Sony,Venice ,Digital Cinema,Full Frame,6.0,15.0,500/2500,PL / E,2018,38000,3.7,X-OCN / ProRes,purchase 
+Sony,Venice 2,Digital Cinema,Full Frame,8.0,16.0,800/3200,PL / E,2022,42000,3.9,X-OCN / ProRes,purchase 
+Sony,Burano,Digital Cinema,Full Frame,8.0,16.0,800/3200,PL / E,2023,25000,2.7,X-OCN / ProRes,purchase 
+Sony,FX9,Digital Cinema,Full Frame,6.0,15.0,800/4000,E,2019,11000,2.0,XAVC-I / XAVC-L,purchase 
+Sony,FX6,Digital Cinema,Full Frame,4.0,15.0,800/12800,E,2020,6000,0.9,XAVC-I / XAVC-L,purchase 
+Sony,FX3,Digital Cinema,Full Frame,4.0,15.0,640/12800,E,2021,3900,0.7,XAVC-I / XAVC-S,purchase 
+Sony,FX2,Digital Cinema,Full Frame,4.0,15.0,800/3200,E,2023,2700,0.5,XAVC-I / XAVC-S,purchase 
+Sony,FX30,Digital Cinema,APS-C,4.0,15.0,800/12800,E,2022,1800,0.5,XAVC-I / XAVC-S,purchase 
+Sony,A7 IV,Mirrorless,Full Frame,4.0,14.0,800/3200,E,2021,2500,0.7,XAVC-I / XAVC-S,purchase 
+Sony,A7 V,Mirrorless,Full Frame,4.0,16.0,800/8000,E,2025,2800,0.7,XAVC-I / XAVC-S,purchase 
+Sony,A7 SIII,Mirrorless,Full Frame,4.0,15.0,640/12800,E,2020,3500,0.6,XAVC-I / XAVC-S,purchase 
+Blackmagic,URSA Cine ,Digital Cinema,Large Format,12.0,16.0,800,PL / LPL / EF,2024,7609,4.1,BRAW,purchase 
+Blackmagic,URSA Mini Pro 12K,Digital Cinema,Super 35,12.0,14.0,800,PL / EF,2020,6765,2.7,BRAW,purchase 
+Blackmagic,URSA Mini Pro 4.6K,Digital Cinema,Super 35,4.6,15.0,800 / 3200,PL / EF ,2019,6299,2.3,BRAW / ProRes,purchase 
+Blackmagic,PYXIS 12K,Digital Cinema,Full Frame,12.0,16.0,800,PL / L / EF,2025,5255,1.3,BRAW,purchase 
+Blackmagic,PYXIS 6K,Digital Cinema,Full Frame,6.0,13.0,400,L,2024,3119,1.2,BRAW,purchase 
+Blackmagic,Pocket Cinema Camera 6k Pro,Digital Cinema,Super 35,6.0,13.0,400 / 3200,EF,2021,2615,1.2,BRAW,purchase 
+Blackmagic,Pocket Cinema Camera 6k G2,Digital Cinema,Super 35,6.0,13.0,400 / 3200,EF,2020,2095,0.9,BRAW,purchase 
+Blackmagic,Pocket Cinema Camera 4k,Digital Cinema,Micro 4/3,6.0,13.0,400 / 3200,MFT,2018,1055,0.7,BRAW,purchase 
+Panavision,Millennium DXL2,Digital Cinema,Large Format,8.0,16.0,1600,PV / PL,2018,1500,4.5,REDCODE RAW,rental_daily
+Panavision,DXL,Digital Cinema,Large Format,8.0,15.0,800,PV / PL,2016,1200,4.2,REDCODE RAW,rental_daily
+Panavision,Panaflex Platinum,Film,35mm,,,,PV,1997,800,5.4,16mm/35mm Film,rental_daily
+Panavision,Panaflex Millennium XL2,Film,35mm,,,,PV,2002,900,5.8,35mm Film,rental_daily
+ARRI,ARRICAM LT,Film,35mm,,,,PL,2001,750,5.2,35mm Film,rental_daily
+ARRI,ARRICAM ST,Film,35mm,,,,PL,2001,850,6.5,35mm Film,rental_daily
+ARRI,435 Xtreme,Film,35mm,,,,PL,1999,700,6.5,35mm Film,rental_daily
+ARRI,416,Film,16mm,,,,PL,2006,500,2.8,16mm Film,rental_daily
+Canon,EOS C400,Digital Cinema,Full Frame,6.0,16.0,800 / 3200 / 12800,RF,2024,13500,1.5,"Cinema RAW Light, XF-AVC, XF-AVC S",purchase 
+Canon,EOS C80,Digital Cinema,Full Frame,6.0,16.0,800 / 3200 / 12800,RF,2024,5499,1.3,"Cinema RAW Light, XF-AVC, XF-AVC S",purchase 
+Canon,EOS C70,Digital Cinema,Super 35,4.0,16.0,800,RF,2020,4799,1.1,"Cinema RAW Light, XF-AVC, MP4",purchase 
+Canon,EOS C500 MK2,Digital Cinema,Full Frame,5.9,15.0,800,EF,2019,10999,1.7,"Cinema RAW Light, XF-AVC",purchase 
+Canon,EOS C300 MK3,Digital Cinema,Super 35,4.0,16.0,800,EF,2020,8999,1.7,"Cinema RAW Light, XF-AVC",purchase 
+Canon,EOS R5 C,Mirrorless,Full Frame,8.0,14.0,160 / 25600,RF,2022,4499,0.6,"Cinema RAW Light, XF-AVC, MP4",purchase 
+DJI,Ronin 4D 8K,Digital Cinema,Full Frame,8.0,14.0,320 / 1600,DL / PL / E-Mount / L,2023,9999,4.67,ProRes RAW / ProRes,purchase
+ZCAM,E2-F6,Digital Cinema,Full Frame,6.0,15.0,400 / 2500,EF / PL / LPL,2020,2999,1.09,ZRAW / ProRes,purchase
+ZCAM,E2-S6,Digital Cinema,Super 35,6.0,14.0,400 / 1250,EF / PL / MFT,2020,2199,1.09,ZRAW / ProRes,purchase
+Kinefinity,MAVO LF Mark 2,Digital Cinema,Full Frame,6.0,14.0,800 / 5120,KineMOUNT / PL / E,2023,5999,1.46,KineRAW / ProRes,purchase
+Sigma,fp L,Mirrorless,Full Frame,4.0,13.0,100 / 1250,L-Mount,2021,2499,0.375,CinemaDNG / MOV,purchase
