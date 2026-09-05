@@ -35,5 +35,8 @@ df_filtered = df[
 
 st.sidebar.markdown(f'**{len(df_filtered)} films selected**')
 
+# Connections
 from components import peliculas 
 peliculas.render(df_filtered, df_genres, df_genre_roi, df_decade)
+from components import camaras
+camaras.render(df_cameras)
