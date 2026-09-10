@@ -71,4 +71,4 @@ def render(df_cameras):
                 st.error('Something went wrong. Please try again.')
         else:
             st.warning('Please fill in the camera name and brand.')
-            
+                
