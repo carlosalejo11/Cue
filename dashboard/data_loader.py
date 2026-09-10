@@ -14,7 +14,5 @@ def load_data():
     df['release_year'] = df['release_date'].dt.year
     df['decade'] = (df['release_year'] // 10) * 10
     df_cameras = pd.read_csv(DATA_PATH / 'cinema_cameras_clean.csv')
-    df_genres = pd.read_csv(DATA_PATH / 'genre_counts.csv')
-    df_genre_roi = pd.read_csv(DATA_PATH / 'genre_roi.csv')
-    df_decade = pd.read_csv(DATA_PATH / 'movies_per_decade.csv')
-    return df, df_cameras, df_genres, df_genre_roi, df_decade
+    
+    return df, df_cameras
