@@ -8,9 +8,12 @@ st.set_page_config(
 )
 
 #CSS
-def load_css(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+from pathlib import Path
+
+def load_css(relative_path):
+    css_path = Path(__file__).parent / relative_path
+    with open(css_path, "r", encoding="utf-8") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 load_css("assets/style.css")
 
