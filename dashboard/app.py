@@ -1,15 +1,19 @@
+from pathlib import Path
 import streamlit as st
 from data_loader import load_data
 from components import peliculas, camaras, generos
 
+
+ASSETS_DIR = Path(__file__).parent / "assets"
+logo_path = ASSETS_DIR / "cue_logo.png"
+
 st.set_page_config(
     page_title='Cue', 
+    page_icon = str(logo_path),
     layout='wide'
 )
 
 #CSS
-from pathlib import Path
-
 def load_css(relative_path):
     css_path = Path(__file__).parent / relative_path
     with open(css_path, "r", encoding="utf-8") as f:
